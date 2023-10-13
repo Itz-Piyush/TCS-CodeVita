@@ -1,4 +1,4 @@
-
+'''
 PrimeConstructionMarks: 30
 Problem Description
 A math game is introduced in a school competition to test the skills of students. The game deals with Prime numbers.
